@@ -13,9 +13,7 @@ Make sure you have installed Flask by running the following command: pip install
 
 ### Installation
 1. Clone the repository to your local machine:
-   ```bash
-   git clone <your-repo-url>
-   cd your-project-folder
+
 
 To Run the application:
 ```bash
